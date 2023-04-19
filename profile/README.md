@@ -5,11 +5,7 @@ allowing access to all native Minecraft features through placeholders and expans
 
 
 
-### Available Expansions
-
-* [LuckPerms](https://github.com/MiniPlaceholders/LuckPerms-Expansion)
-* [Player](https://github.com/MiniPlaceholders/Player-Expansion)
-* [Expresions](https://github.com/Sliman4/Expressions-Expansion) by Sliman4
+### [Available Expansions](https://github.com/MiniPlaceholders/MiniPlaceholders/wiki/Placeholders)
 
 
 ### Downloads
