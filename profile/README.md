@@ -1,6 +1,6 @@
 ## MiniPlaceholders
 
-MiniPlaceholders is a plugin that allows plugins to provide placeholders based on MiniMessage components to each other,
+MiniPlaceholders is a plugin and mod that allows plugins/mods to provide placeholders based on MiniMessage components to each other,
 allowing access to all native Minecraft features through placeholders and expansions
 
 
