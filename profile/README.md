@@ -5,7 +5,7 @@ allowing access to all native Minecraft features through placeholders and expans
 
 
 
-### [Available Expansions](https://github.com/MiniPlaceholders/MiniPlaceholders/wiki/Placeholders)
+### [Available Expansions](https://miniplaceholders.github.io/docs/user-guide/Placeholders)
 
 
 ### Downloads
@@ -14,4 +14,4 @@ allowing access to all native Minecraft features through placeholders and expans
 
 ### API
 
-Check out the MiniPlaceholders API in our [Wiki](https://github.com/MiniPlaceholders/MiniPlaceholders/wiki/Developer-Getting-Started)
+Check out the MiniPlaceholders API in our [Wiki](https://miniplaceholders.github.io/docs/developer-guide/Developer-Getting-Started)
